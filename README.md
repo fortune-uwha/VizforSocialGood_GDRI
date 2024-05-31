@@ -29,12 +29,16 @@ The dataset used in this project is gotten from the official website of viz for 
 Once you have the dataset, update the file path in the project script or notebook accordingly.
 
 ## Dashboard
-### Sketch of Airbnb Visualisation:
-![Project phase 1](images/sketch_airbnb.png)
+### Data Survey Visualisation Result:
 
-### Result⭐:
-![Project Screenshot](images/airbnb_analysis.gif)
+### Part one: Survey Demographics
+![Project phase 1](Images/SurveyDemographics.png)
 
+### Part two: Health and wellbeing
+![Project phase 2](Images/Health.png)
+
+### Part three: Deaf experience and Discrimination
+![Project phase 3](Images/DeafExperience.png)
 
 ## Usage
 To interact with the visualisation, please view the dashboard hosted on [Tableau public](https://public.tableau.com/app/profile/fortune.uwha/viz/GDRIDataSurveyfortheDeafCommunity/GDRIDataSurvey)
